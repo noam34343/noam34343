@@ -5,7 +5,6 @@
 - C++
 - Python
 - batch
-- learning C
 
 
 
